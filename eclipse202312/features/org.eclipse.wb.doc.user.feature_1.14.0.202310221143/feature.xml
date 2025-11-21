@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.wb.doc.user.feature"
+      label="%featureName"
+      version="1.14.0.202310221143"
+      provider-name="%providerName"
+      plugin="org.eclipse.wb.doc.user">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import feature="org.eclipse.wb.core.feature" version="1.9.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.wb.doc.user"
+         download-size="4345"
+         install-size="4805"
+         version="1.9.400.202310221143"
+         unpack="false"/>
+
+</feature>

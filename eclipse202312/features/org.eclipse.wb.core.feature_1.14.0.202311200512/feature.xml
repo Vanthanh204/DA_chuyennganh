@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.wb.core.feature"
+      label="%featureName"
+      version="1.14.0.202311200512"
+      provider-name="%providerName"
+      plugin="org.eclipse.wb.core">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.wb.os"
+         download-size="14"
+         install-size="21"
+         version="1.9.3.202308190851"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wb.runtime"
+         download-size="9"
+         install-size="12"
+         version="1.9.3.202306291946"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wb.core"
+         download-size="2008"
+         install-size="3791"
+         version="1.13.100.202311200512"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wb.core.lib"
+         download-size="1186"
+         install-size="1288"
+         version="1.9.3.202306291946"/>
+
+   <plugin
+         id="org.eclipse.wb.os.linux"
+         os="linux"
+         ws="gtk"
+         download-size="38"
+         install-size="90"
+         version="1.9.500.202311141617"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wb.os.macosx"
+         os="macosx"
+         download-size="115"
+         install-size="540"
+         version="1.9.3.202308190851"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wb.os.win32"
+         os="win32"
+         ws="win32"
+         download-size="93"
+         install-size="194"
+         version="1.9.3.202308190851"
+         unpack="false"/>
+
+</feature>
