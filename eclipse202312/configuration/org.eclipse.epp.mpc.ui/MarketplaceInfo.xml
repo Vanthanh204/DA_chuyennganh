@@ -19,6 +19,14 @@
     </object>
    </void>
    <void method="put">
+    <string>bndtools.main.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#1220</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
     <string>org.jetbrains.kotlin.gradle.feature</string>
     <object class="java.util.ArrayList">
      <void method="add">
@@ -94,6 +102,14 @@
     </object>
    </void>
    <void method="put">
+    <string>zipeditor.feature.group</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#1760305</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
     <string>org.jetbrains.kotlin.feature</string>
     <object class="java.util.ArrayList">
      <void method="add">
@@ -114,6 +130,14 @@
     <object class="java.util.ArrayList">
      <void method="add">
       <string>https://marketplace.eclipse.org#807489</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>bndtools.m2e.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#1220</string>
      </void>
     </object>
    </void>
@@ -222,6 +246,14 @@
     </object>
    </void>
    <void method="put">
+    <string>com.codeaffine.archive.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#1954981</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
     <string>org.eclipse.epp.mpc</string>
     <object class="java.util.ArrayList">
      <void method="add">
@@ -262,6 +294,14 @@
     </object>
    </void>
    <void method="put">
+    <string>bndtools.pde.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#1220</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
     <string>org.eclipse.emf.cdo.sdk</string>
     <object class="java.util.ArrayList">
      <void method="add">
@@ -293,6 +333,14 @@
     <object class="java.util.ArrayList">
      <void method="add">
       <string>AngularDevToolFeature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#1760305</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>zipeditor.feature.group</string>
      </void>
     </object>
    </void>
@@ -361,6 +409,14 @@
     <object class="java.util.ArrayList">
      <void method="add">
       <string>ch.acanda.eclipse.pmd.feature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#1954981</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>com.codeaffine.archive.feature</string>
      </void>
     </object>
    </void>
@@ -440,6 +496,20 @@
     <object class="java.util.ArrayList">
      <void method="add">
       <string>org.eclipse.net4j.sdk</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#1220</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>bndtools.main.feature</string>
+     </void>
+     <void method="add">
+      <string>bndtools.m2e.feature</string>
+     </void>
+     <void method="add">
+      <string>bndtools.pde.feature</string>
      </void>
     </object>
    </void>
